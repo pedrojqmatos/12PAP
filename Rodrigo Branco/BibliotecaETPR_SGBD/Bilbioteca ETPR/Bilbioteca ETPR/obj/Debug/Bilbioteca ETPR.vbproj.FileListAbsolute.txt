@@ -1,0 +1,27 @@
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.exe.config
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.exe
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.pdb
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.xml
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.vbproj.AssemblyReference.cache
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.Resources.resources
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.vbproj.GenerateResource.cache
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.vbproj.CoreCompileInputs.cache
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.exe
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.xml
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.pdb
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.frm_login.resources
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.frm_principal.resources
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.exe.config
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.exe
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.pdb
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\bin\Debug\Bilbioteca ETPR.xml
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.vbproj.AssemblyReference.cache
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.frm_login.resources
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.frm_principal.resources
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.Resources.resources
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.vbproj.GenerateResource.cache
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.vbproj.CoreCompileInputs.cache
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.exe
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.xml
+E:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca ETPR.pdb
+D:\2023-24\PAP\BibliotecaETPR_SGBD\Bilbioteca ETPR\Bilbioteca ETPR\obj\Debug\Bilbioteca_ETPR.frm_add_livro.resources
